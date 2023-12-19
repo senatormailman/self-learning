@@ -10,12 +10,13 @@ For problems that I experience, I will break them down into location and languag
 
 As a visual:
 
+```
 This repo
 |-> Leetcode Directory
      |-> Example Problem Directory
           |-> Python Solution
           |-> Java Solution
-
+```
 ## Books I Have Read
 
 - [Algorithms by Panos Louridas](https://mitpress.mit.edu/9780262539029/algorithms/)
