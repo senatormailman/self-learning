@@ -25,12 +25,15 @@ The Computer Science books will be from my collection. I will be going through b
 
 ## Currently On:
 
+- [The C Programming Language, 2nd Edition by Brian W. Kernighan and Dennis M. Ritchie](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+
 ## Complete:
 
 - [Algorithms by Panos Louridas](https://mitpress.mit.edu/9780262539029/algorithms/)
 
 ## Planned:
 - [the Art of Problem Solving, Volume 1: the Basics by Sandor Lehoczky and Richard Rusczyk](https://artofproblemsolving.com/store/book/aops-vol1)
-- [The C Programming Language, 2nd Edition by Brian W. Kernighan and Dennis M. Ritchie](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 - [The Art of Computer Programming, Vol. 1: Fundamental Algorithms by Donald Knuth](https://a.co/d/2q4mtQr)
 - [Structure and Interpretation of Computer Programs, second edition by Harold Abelson and Gerald Jay Sussman with Julie Sussman](https://mitpress.mit.edu/9780262510875/structure-and-interpretation-of-computer-programs/)
+- [PoC||GTFO by Manul Laphroaig](https://nostarch.com/gtfo)
+- [PoC||GTFO, Volume 2 by Manul Laphroaig](https://nostarch.com/gtfo2)
