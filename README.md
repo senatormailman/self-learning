@@ -26,6 +26,7 @@ The Computer Science books will be from my collection. I will be going through b
 ## Currently On:
 
 - [The C Programming Language, 2nd Edition by Brian W. Kernighan and Dennis M. Ritchie](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+- [Ultimate AWS Certified Solutions Architect Associate SAA-C03 by Stephane Maarek (via Udemy)](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/learn/)
 
 ## Complete:
 
