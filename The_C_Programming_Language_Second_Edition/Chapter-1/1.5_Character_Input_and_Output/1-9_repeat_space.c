@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * Count newlines, blanks and tabs in input
+ * Remove repeat blanks
  */
 
 main()

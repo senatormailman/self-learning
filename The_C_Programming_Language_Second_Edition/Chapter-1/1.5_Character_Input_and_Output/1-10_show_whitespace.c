@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * Count newlines, blanks and tabs in input
+ * Show tabs, backspaces and backslashes
  */
 
 main()
