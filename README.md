@@ -27,6 +27,7 @@ The Computer Science books will be from my collection. I will be going through b
 
 - [The C Programming Language, 2nd Edition by Brian W. Kernighan and Dennis M. Ritchie](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 - [Ultimate AWS Certified Solutions Architect Associate SAA-C03 by Stephane Maarek (via Udemy)](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/learn/)
+- [ServiceNow's System Administrator Associate Course (via ServiceNow)](https://nowlearning.servicenow.com/lxp/en/pages/journey-overview?id=journey_overview&journey_id=55f79b4a1b96add013f9a6c1b24bcb30)
 
 ## Complete:
 
