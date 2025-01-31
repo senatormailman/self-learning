@@ -11,7 +11,7 @@
  * the beginning example and added my histogram from 1-13.
  * I also used the char - 'initial char' trick with a - z. */
 
-main()
+void main()
 {
 	int c, i, nc, state;
 	int ndigit[10];

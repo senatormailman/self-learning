@@ -8,7 +8,7 @@
 #define IN	1	/* inside a word */
 #define OUT	0	/* outside a word */
 
-main()
+void main()
 {
 	int c, i, nc, state;
 	int nword[45];
