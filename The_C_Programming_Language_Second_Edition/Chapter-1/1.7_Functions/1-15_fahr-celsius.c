@@ -6,11 +6,16 @@
  * for fahr = 0, 20, ... , 300 (floating point version)
  * 
  * Modified to include a table header.
+ *
+ * Related to 1-15_celsius-fahr.c, but reversed process.
+ * Could be better, but not too sure how to yet.
 */
 
-main()
+int fahrcelsius(float fahr, int upper, int step);
+
+int main()
 {
-	float fahr, celsius;
+	float fahr;
 	int lower, upper, step;
 
 	lower = 0;	/* lower limit of temperature table */
@@ -21,6 +26,12 @@ main()
 	printf("%3s %8s\n", "F", "C");
 
 	fahr = lower;
+	fahrcelsius(fahr, upper, step);
+}
+
+int fahrcelsius(float fahr, int upper, int step)
+{
+	float celsius;
 	while (fahr <= upper)
 	{
 		celsius = (5.0/9.0) * (fahr-32.0);
